@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--游戏页资源-->
+    <string name="app_name">Number Bombs</string>
+    <string name="menu_restart">Restart</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_achievement">Achievement(Coming soon)</string>
+    <string name="menu_about">About…</string>
+    <string name="menu_exit">Exit</string>
+    <string name="label_settings">Settings</string>
+    <string name="label_about">About</string>
+    <string name="dialog_exit_title">Exit</string>
+    <string name="dialog_restart_title">Restart</string>
+    <string name="dialog_exit_content">Are you sure you want to quit?</string>
+    <string name="dialog_restart_content">Are you sure you want to restart?The current game will be lost.</string>
+    <string name="toast_setting_content">Please choose an item. The game will restart automatically after you press OK.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="hints_0">Type numbers here…</string>
+    <string name="hints_1">Please reset the game.</string>
+    <string name="button_0">Confirm</string>
+    <string name="button_1">Restart</string>
+    <string name="button_233">LOL~</string>
+    <string name="error_content_empty">You have typed nothing. :(</string>
+    <string name="toast_gameover">BOOM!!! Game over.</string>
+    <string name="error_content_leq">The number you type must be more than the current minimum number.</string>
+    <string name="error_content_geq">The number you type must be less than the current maximum number.</string>
+    <string name="actionbar_welcome">Welcome.</string>
+    <string name="rounds_1">You have played for: </string>
+    <string name="rounds_2">Round(s).</string>
+    <!--设置项资源-->
+    <string name="soundswitch">Sounds</string>
+    <string name="set_max">Change the maximum number</string>
+    <string name="recordswitch">Record(Coming soon)</string>
+    <string name="auto_fill_switch">Autofill</string>
+    <!--关于页资源-->
+    <string name="plutonium">Plutonium</string>
+    <string name="rules">Rules</string>
+    <string name="rules_l1">Play games with your friends! We will create a number randomly between the range shows on your screen. The number is called "Bomb". And it won\'t show at the beginning as well as hide behind the"- -". Please minify the range and make your friends to detonate the "Bomb". Careful! Don\'t get hurt!</string>
+    <string name="rules_l2">In order to minify the range, the number every player type must be MORE than the current minimum number(on the left of the "Bomb") and LESS than the current maximum number(on the right of the "Bomb").</string>
+    <string name="introduction">Introductions</string>
+    <string name="intro1">Change the maximum number:You can change the range by changing the maximum number.</string>
+    <string name="intro2">Sounds: You can turn on or turn off the sound.</string>
+    <string name="intro3">Record(coming soon): The bomb and the person who detonated the bomb will be recorded if you turn on this function.</string>
+    <string name="intro4">Autofill:</string>
+    <string name="about">About this app</string>
+    <string name="about_l2">A work by 钚科创 / Plutonium.</string>
+    <string name="about_l4">UI &amp; Programming:</string>
+    <string name="about_l5">Version:3.0.5</string>
+    <string name="thanks">Thanks for playing!</string>
+    <string name="copyright">This app is using CC-BY-SA-4.0 license. Other rights are reserved.</string>
+    <string name="source_code">Welcome to my GitHub! You can get the source code of this app.</string>
+</resources>

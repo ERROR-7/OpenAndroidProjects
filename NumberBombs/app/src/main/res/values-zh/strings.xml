@@ -1,0 +1,65 @@
+<resources>
+    <!--游戏页资源-->
+    <string name="app_name">数字炸弹</string>
+    <string name="menu_restart">重新开始</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_achievement">成就(即将推出)</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_exit">离开游戏</string>
+    <string name="label_settings">设置</string>
+    <string name="label_about">关于</string>
+    <string name="dialog_exit_title">离开游戏</string>
+    <string name="dialog_restart_title">重新开始</string>
+    <string name="dialog_exit_content">确定要离开游戏吗?当前游戏将丢失.</string>
+    <string name="dialog_restart_content">确定要重新开始吗?当前游戏将丢失.</string>
+    <string name="toast_setting_content">请选择一项.成功修改后当前游戏将丢失.</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="default_min" translatable="false">1</string>
+    <string name="default_max" translatable="false">100</string>
+    <string name="default_bomb" translatable="false">--</string>
+    <string name="hints_0">请输入数字.</string>
+    <string name="hints_1">请重置游戏.</string>
+    <string name="button_0">输入</string>
+    <string name="button_1">重置</string>
+    <string name="button_233">嘿嘿~</string>
+    <string name="error_content_empty">您输入的内容是空的.</string>
+    <string name="toast_gameover">游戏结束!</string>
+    <string name="error_content_leq">您输入的值须大于当前最小数.</string>
+    <string name="error_content_geq">您输入的值须小于当前最大数.</string>
+    <string name="actionbar_welcome">欢迎.</string>
+    <string name="rounds_1">您已进行:</string>
+    <string name="rounds_2">轮.</string>
+    <!--设置项资源-->
+    <string name="soundswitch">音效</string>
+    <string name="set_max">修改最大数</string>
+    <string name="recordswitch">记录(即将推出)</string>
+    <string name="auto_fill_switch">自动填充</string>
+    <string name="m_50" translatable="false">50</string>
+    <string name="m_100" translatable="false">100</string>
+    <string name="m_200" translatable="false">200</string>
+    <string name="m_500" translatable="false">500</string>
+    <string name="m_1000" translatable="false">1000</string>
+    <!--关于页资源-->
+    <string name="plutonium">Plutonium</string>
+    <string name="rules">规则</string>
+    <string name="rules_l1">与好友一起游戏吧.系统将在屏幕所示范围之间生成一个数字,该数字称为"炸弹数".炸弹数一开始不会显示,在屏幕中央以“- -”遮挡.您的目标就是不断缩小当前范围,让您的好友最终“引爆炸弹”!小心不要伤到自己~
+    </string>
+    <string name="rules_l2">为了不断缩小范围,每位玩家输入的数字必须大于当前屏幕所示的最小数(炸弹数左侧),且小于最大数(炸弹数右侧),等于最小数或者最大数也是不可以的哦.
+    </string>
+    <string name="introduction">说明</string>
+    <string name="intro1">修改最大数:可扩大或缩小游戏范围.(大量实验证明,若用“二分法”游戏,则此设置不太有用.)</string>
+    <string name="intro2">音效:可选开启或关闭音效.</string>
+    <string name="intro3">记录(即将推出):可选开启或关闭游戏记录,记录的内容有玩家名称和其当时引爆的炸弹.</string>
+    <string name="intro4">自动填充:可选开启或关闭自动填充,在可能的结果只剩1种的时候自动填入炸弹,做一条放弃挣扎的咸鱼.</string>
+    <string name="about">关于此应用</string>
+    <string name="about_l2">钚科创 / Plutonium 出品.</string>
+    <string name="about_l4">UI &amp; 程序:</string>
+    <string name="about_l5">版本:3.0.5</string>
+    <string name="about_l6" translatable="false">2020/4/9</string>
+    <string name="thanks">感谢游玩.</string>
+    <string name="copyright">本应用使用 CC-BY-SA-4.0 许可证.保留其它权利.</string>
+    <string name="copyright_link" translatable="false">http://creativecommons.org/licenses/by-nc-sa/4.0/</string>
+    <string name="source_code">欢迎访问我的GitHub页面！您可在此获取本应用的源码.</string>
+    <string name="source_code_link" translatable="false">https://github.com/ERROR-7/NumberBombs_Android.git</string>
+    </resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--游戏页资源-->
+    <string name="app_name">數字炸彈</string>
+    <string name="menu_restart">重新開始</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_achievement">成就(即將推出)</string>
+    <string name="menu_about">關於</string>
+    <string name="menu_exit">離開遊戲</string>
+    <string name="label_settings">設定</string>
+    <string name="label_about">關於</string>
+    <string name="dialog_exit_title">離開遊戲</string>
+    <string name="dialog_restart_title">重新開始</string>
+    <string name="dialog_exit_content">確認要離開遊戲嗎?當前遊戲將遺失.</string>
+    <string name="dialog_restart_content">確認要重新開始嗎?當前遊戲將遺失.</string>
+    <string name="toast_setting_content">請選擇一項.成功修改後當前遊戲將遺失.</string>
+    <string name="dialog_ok">確認</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="hints_0">請輸入數字.</string>
+    <string name="hints_1">請重設遊戲.</string>
+    <string name="button_0">輸入</string>
+    <string name="button_1">重設</string>
+    <string name="button_233">完蛋~</string>
+    <string name="error_content_empty">您輸入的內容是空的.</string>
+    <string name="toast_gameover">遊戲結束!</string>
+    <string name="error_content_leq">您輸入的值須大於當前最小數.</string>
+    <string name="error_content_geq">您輸入的值須小於當前最大數.</string>
+    <string name="actionbar_welcome">歡迎.</string>
+    <string name="rounds_1">您已進行:</string>
+    <string name="rounds_2">回合.</string>
+    <!--设置项资源-->
+    <string name="soundswitch">音效</string>
+    <string name="set_max">修改最大數</string>
+    <string name="recordswitch">纪錄(即將推出)</string>
+    <string name="auto_fill_switch">自動填寫</string>
+    <!--关于页资源-->
+    <string name="error_7">ERROR_7</string>
+    <string name="rules">規則</string>
+    <string name="rules_l1">與好友一起遊戲吧.系統將在荧幕所示範圍之間生成一個數，該數稱為“炸彈數”.炸彈數一開始不會顯示，在荧幕中央以“— —”遮擋.您的目標就是不斷縮小當前範圍，讓您的好友最終“引爆炸彈”！小心不要傷到自己~</string>
+    <string name="rules_l2">為了不斷縮小範圍，每位玩家輸入的數字必須大於當前荧幕所示的最小數（炸彈數左側），且小於最大數（炸彈數右側），等於最小數或者最大數也是不可以的~
+    </string>
+    <string name="introduction">說明</string>
+    <string name="intro1">修改最大數:可擴大或縮小遊戲範圍.</string>
+    <string name="intro2">音效:可選開啟或關閉音效.</string>
+    <string name="intro3">纪錄(即將推出):可選開啟或關閉遊戲記錄，記錄的內容有玩家名稱和其當時引爆的炸彈.</string>
+    <string name="intro4">自動填寫:可選開啟或關閉自動填寫，在可能的結果只祇1種的時候自動填入炸彈，做一條放弃掙扎的鹹魚.</string>
+    <string name="about">關於此程式</string>
+    <string name="about_l2">鈈科創 / Plutonium 出品.</string>
+    <string name="about_l4">UI &amp; 程式:</string>
+    <string name="about_l5">版本:3.0.5</string>
+    <string name="thanks">感謝遊玩.</string>
+    <string name="copyright">本作品使用 CC-BY-SA-4.0 許可證.保留其它權利.</string>
+    <string name="source_code">歡迎訪問我的GitHub頁面！您可在此獲取本程式之源碼.</string>
+</resources>
